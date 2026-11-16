@@ -20,6 +20,6 @@ I'm interested in the space where **technology, AI/ML, creativity, cybersecurity
 `AI/ML` · `System Design` · `Game Development` · `Cybersecurity`
 · `Technology Law` · `Emerging Technology`
 
--------------------------------------
+--------------------------------------
 
 > **Building ideas into actual experiences.**
